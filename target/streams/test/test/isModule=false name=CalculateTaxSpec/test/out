@@ -1,0 +1,8 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mCalculateTaxSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcalculateTax should return 15% of 20000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 3000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcalculateTax should return 20% of 60000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 12000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcalculateTax should return 40% of 110000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should return 44000 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  0 did not equal 44000 (CalculateTaxSpec.scala:27)[0m[0m

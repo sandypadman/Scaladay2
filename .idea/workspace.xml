@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3357a0cf-ee6b-4ece-aeac-3f70804b6ac3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="307" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1P8cWa9AEwGDLMF9VPR7imZXCZR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GuessWhoVersion">
+    <configuration name="ActualGuessWho" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ActualGuessWho" />
+      <module name="Scaladay2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessWho" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="GuessWho" />
+      <module name="Scaladay2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessWhoVersion" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="GuessWhoVersion" />
+      <module name="Scaladay2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculateTaxSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Scaladay2" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="CalculateTaxSpec" />
+      <option name="testPackagePath" value="" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Scaladay2" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="FizzBuzzSpec" />
+      <option name="testPackagePath" value="" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GuessWhoVersion" />
+        <item itemvalue="Application.ActualGuessWho" />
+        <item itemvalue="Application.GuessWho" />
+        <item itemvalue="ScalaTest.CalculateTaxSpec" />
+        <item itemvalue="ScalaTest.FizzBuzzSpec" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Scaladay2" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scaladay2 [file:/home/sandhya/workspace/Scaladay2/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Scaladay2-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3130518567972" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2585431840" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/newdir/vat-opt-out-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/newdir/vat-summary-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../add-taxes-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../business-tax-account" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../change-vat-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../change-vat-details-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../change-vat-details-performance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../comms-api-proxy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../contact-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../digital-comms-dynamic-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../income-tax-view-change-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../manage-vat-subscription-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../mtd-vat-comms" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-agent-client-lookup-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-correspondence-details-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-obligations-dynamic-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-opt-out-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-returns" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-returns-dynamic-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-subscription" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-summary-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vat-vc-api-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../view-vat-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../view-vat-returns-frontend" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3357a0cf-ee6b-4ece-aeac-3f70804b6ac3" name="Default Changelist" comment="" />
+      <created>1565259196209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565259196209</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Scaladay2$ActualGuessWho.ic" NAME="ActualGuessWho Coverage Results" MODIFIED="1568071457692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Scaladay2$GuessWhoVersion.ic" NAME="GuessWhoVersion Coverage Results" MODIFIED="1568130307890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
