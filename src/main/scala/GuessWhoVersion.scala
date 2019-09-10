@@ -94,6 +94,6 @@ object GuessWhoVersion extends App {
   }
   val winner: Seq[Person] = playGame(guessWho.ListOfPeople)
   println(s"There is only one person left: ${winner.head.name}!")
-  println(s"Well done for guessing ${winner.head.name} correctly!")
+ // println(s"Well done for guessing ${winner.head.name} correctly!")
   println("GAME OVER")
 }
