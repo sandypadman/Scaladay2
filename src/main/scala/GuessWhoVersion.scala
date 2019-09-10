@@ -81,8 +81,9 @@ object GuessWhoVersion extends App {
     def callEndGameCheck(endSeq: Seq[Person]): Seq[Person] = {
       filteredS
       if (endSeq.length == 1) {
-        println("you won")
+        println("dfdf")
         endSeq
+
       }
       else {
         println("Keep playing! Almost there Try again!\n")
