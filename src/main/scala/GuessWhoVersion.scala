@@ -81,8 +81,9 @@ object GuessWhoVersion extends App {
     def callEndGameCheck(endSeq: Seq[Person]): Seq[Person] = {
       filteredS
       if (endSeq.length == 1) {
-        println("you won")
+        println("dfdf")
         endSeq
+
       }
       else {
         println("Keep playing! Almost there Try again!\n")
@@ -93,6 +94,6 @@ object GuessWhoVersion extends App {
   }
   val winner: Seq[Person] = playGame(guessWho.ListOfPeople)
   println(s"There is only one person left: ${winner.head.name}!")
-  println(s"Well done for guessing ${winner.head.name} correctly!")
+ // println(s"Well done for guessing ${winner.head.name} correctly!")
   println("GAME OVER")
 }
